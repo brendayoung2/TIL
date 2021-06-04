@@ -106,6 +106,8 @@ html 예시
  수직선 ---세개 
 
 
+ctrl + insert 복사
+shift + insert 붙여넣기
 
-
-
+ctrl 휠조절 : 글자크기 조절 
+ctrl l 끌어올리기

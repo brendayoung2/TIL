@@ -41,3 +41,23 @@ $ git push origin master
 ```
 
 * 깃아, push해줘 origin 원격저장소에 master 브랜치 !
+
+
+
+ls - list 폴더의 목록
+touch - 비어있는 파일을 만들수있다
+cli - Command Line Interface
+mkdir - make directory 폴더(디렉토리)를 만든다
+cd - change directory 폴더 (디렉토리)를 이동
+cd .. -상위 디렉토리로 이동 
+
+add - 커밋할 파일 모으기 
+commit - 커밋 버전기록
+
+touch a.txt
+git add . 
+git commit -m 'First commit'
+
+git config --global user.email 'sunyoung.p94@gmail.com'
+git config --global user.name 'brenda'
+git config --global -l 소문자 엘 
