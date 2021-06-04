@@ -19,18 +19,20 @@
   git log 깃아, 
 
 * 원격저장소 관련
-  git remote -v 
-  git remote rm origin  
+
+  * git remote -v 
+
+  * git remote rm origin  
 
 * git 초기설정
-  git config --global user.name <이름>
-  git config --global user.email <github등록된 이메일>
+  * git config --global user.name <이름>
+    git config --global user.email <github등록된 이메일>
 
 ### 수정시 필요 명령어
 
-수정시 업데이트를 하고 
+* 수정시 업데이트
 
-추가버전을 만든 프로필 수정을 하고
+* 추가로 만든 버전의 프로필을 수정
 
 ```bash 
 $ git status
@@ -38,4 +40,8 @@ $ git add .
 $ git status
 $ git commit -m 'Update README -goal'
 ```
+
+## push
+
+git push origin master 
 
